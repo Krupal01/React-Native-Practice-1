@@ -1,0 +1,8 @@
+RUN : 
+npx react-native init PrecticeProject1
+!!not give firewall permission for node js......
+Have an Android emulator running (quickest way to get started), or a device connected.
+cd "D:\ReactNative\PrecticeProject1\PrecticeProject1" 
+npx react-native run-android
+npx react-native start
+reply r for reload
